@@ -218,10 +218,8 @@ input:invalid {
 }
 
 @media (max-width: 1020px) {
-
-  main{
-    width:100%
-
+  main {
+    width: 100%;
   }
   .right-content h1 {
     font-size: 30px;
@@ -230,5 +228,4 @@ input:invalid {
     background-image: url("bg-intro-mobile.png");
     background-color: hsl(0, 100%, 74%);
   }
-  
 }
